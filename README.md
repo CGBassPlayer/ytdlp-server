@@ -11,11 +11,11 @@ Install [meta](https://github.com/mateodelnorte/meta)
 npm install -g meta
 ```
 
-To initial download the repo
+To initially download the repo
 ```
 meta git clone git@github.com:you/yourProject.git
 ```
-To update the repo
+To pull updates of the repo
 ```
 meta git update
 ```

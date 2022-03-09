@@ -1,0 +1,9 @@
+.idea/
+.github/
+schema.sql
+ytdlp-server.sqlite3
+Dockerfile
+node_modules
+.gitignore
+*.md
+.meta

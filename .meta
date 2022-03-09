@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "backend": "https://github.com/CGBassPlayer/ytdlp-server-backend.git",
+    "frontend": "https://github.com/CGBassPlayer/ytdlp-server-frontend.git"
+  }
+}

@@ -1,9 +1,11 @@
 # YTDLP Server
 Self hosted service to easily download YouTube videos from a Web GUI.
 
-Python Backend API can be found [here](https://github.com/CGBassPlayer/ytdlp-server-backend)
+## Wheres the Code?? 
+![Where's the Beef](https://media0.giphy.com/media/VXxFEcDnNvxqU/giphy.gif?cid=ecf05e47m9h5di687aum6txdk96x5tufohmy1psa7na2mvgq&rid=giphy.gif&ct=g)
 
-VueJS Frontend can be found [here](https://github.com/CGBassPlayer/ytdlp-server-frontend)
+* Python Backend API can be found [here](https://github.com/CGBassPlayer/ytdlp-server-backend)
+* VueJS Frontend can be found [here](https://github.com/CGBassPlayer/ytdlp-server-frontend)
 
 ## Cloning
 Install [meta](https://github.com/mateodelnorte/meta)
